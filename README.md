@@ -1,35 +1,24 @@
-<div style="background-color: white; color: black; padding: 20px;">
+# 👋 Hi, I'm Francisco Watson  
 
-# Hello there 👋, I'm Francisco Watson!
-## A Backend Developer from Argentina
+## 🚀 About Me  
+I am a software development enthusiast with a solid foundation in **.NET, C#, Java, and SQL**, and I am currently focused on transitioning into the world of **Ethereum and Web3**.  
+My motivation is to contribute to the construction of decentralized systems and to continuously learn new technologies that transform the way we collaborate and interact on the Internet.  
 
-![Profile views](https://komarev.com/ghpvc/?username=franciscowatson&label=Profile%20views&color=0e75b6&style=flat)
+I am convinced that **blockchain is one of the pillars of the future of technology**, not only in finance but also in areas such as digital identity, traceability, governance, and community collaboration.  
+I am particularly drawn to Ethereum, as it is the platform that has most strongly driven the creation of **smart contracts**, **DAOs**, and **DeFi**, representing a vibrant ecosystem where developers can constantly innovate.  
 
-- 📫 How to reach me: francisco@watson.com.ar
+## 💼 Professional Experience  
+- **Mid-level Backend Developer** – Portfolio Personal de Inversión (Apr 2025 – Present)  
+  Maintenance and extension of backend systems for transaction processing, support for internal .NET APIs, and development of Angular components.  
 
-### Connect with me:
-<a href="https://linkedin.com/in/franciscowatson" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30">
-</a>
+- **Software Engineer** – Foothill Technology Solutions (Jan 2024 – Apr 2025)  
+  Development and maintenance of backend solutions in .NET 6 and C#, SQL query optimization, and microservices support for Enterprise Reporting.  
 
-### Languages:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40">
+## 🎯 Web3 Goals  
+- Contribute to open-source projects in Ethereum.  
+- Develop and audit **secure smart contracts**.  
+- Explore integrations of **DAOs and multi-signature wallets** for decentralized asset management and governance.  
 
-### Databases:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40">
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40">
-
-### Tools:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40">
-<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40">
-
-</div>
+## 🌐 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/franciscowatson/)  
+- 💻 [GitHub](https://github.com/FranciscoWatson)  
