@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Francisco Watson  
 
 ## 🚀 About Me  
-I am a software development enthusiast with a solid foundation in **.NET, C#, Java, and SQL**, and I am currently focused on transitioning into the world of **Ethereum and Web3**.  
-My motivation is to contribute to the construction of decentralized systems and to continuously learn new technologies that transform the way we collaborate and interact on the Internet.  
+I am a backend-oriented software engineer with a strong foundation in .NET, C#, Python, and SQL, currently focused on applying Machine Learning and Artificial Intelligence to solve real-world problems through robust and scalable architectures.
 
-I am convinced that **blockchain is one of the pillars of the future of technology**, not only in finance but also in areas such as digital identity, traceability, governance, and community collaboration.  
-I am particularly drawn to Ethereum, as it is the platform that has most strongly driven the creation of **smart contracts**, **DAOs**, and **DeFi**, representing a vibrant ecosystem where developers can constantly innovate.  
+My work and research combine backend development with data-driven intelligence, leveraging models that enhance automation, prediction, and personalization across applications.
+I am passionate about building efficient data pipelines, integrating AI into microservice architectures, and designing systems that learn and adapt over time.
+
+I believe AI is reshaping the backend ecosystem, transforming traditional systems into intelligent, autonomous solutions that bring tangible business value and user impact.
 
 ## 💼 Professional Experience  
 - **Mid-level Backend Developer** – Portfolio Personal de Inversión (Apr 2025 – Present)  
@@ -14,10 +15,10 @@ I am particularly drawn to Ethereum, as it is the platform that has most strongl
 - **Software Engineer** – Foothill Technology Solutions (Jan 2024 – Apr 2025)  
   Development and maintenance of backend solutions in .NET 6 and C#, SQL query optimization, and microservices support for Enterprise Reporting.  
 
-## 🎯 Web3 Goals  
-- Contribute to open-source projects in Ethereum.  
-- Develop and audit **secure smart contracts**.  
-- Explore integrations of **DAOs and multi-signature wallets** for decentralized asset management and governance.  
+## 🎯 Current Goals  
+- Building ML pipelines for clustering, recommendation, and anomaly detection.
+- Integrating AI models into microservice architectures and APIs.
+- Exploring MLOps best practices for model deployment and monitoring.
 
 ## 🌐 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/franciscowatson/)  
